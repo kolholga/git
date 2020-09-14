@@ -1,6 +1,6 @@
 <?php
 
-$title = 'my page';
+$title = 'my test page';
 
 ?>
 
