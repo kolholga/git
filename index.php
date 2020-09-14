@@ -1,6 +1,8 @@
 <?php
 
 $title = 'my test page';
+$name = "Olga";
+$birth = "24.04.1979";
 
 ?>
 
@@ -14,6 +16,7 @@ $title = 'my test page';
 </head>
 <body>
     <h1>Title</h1>
-
+    <p>My name: <?=$name;?></p>
+    <p>My birthday: <?=$birth;?></p>
 </body>
 </html>
