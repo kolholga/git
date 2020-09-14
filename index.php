@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="<i class="fas fa-ruler-horizontal    "></i>">
+<html lang="ru">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Title</h1>
-    
+
 </body>
 </html>
